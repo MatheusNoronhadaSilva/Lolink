@@ -1,0 +1,14 @@
+[
+    {
+        "grade_id": 4,
+        "id": 1,
+        "name": "gaby",
+        "password": "123456"
+    },
+    {
+        "grade_id": 7,
+        "id": 2,
+        "name": "matheus",
+        "password": "1234567890"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "category_id": 1,
+        "description": "jjdjdjdjdjdjdjdjdjdjjd",
+        "hex_color": "#fff",
+        "id": 1,
+        "image": "htkoifnjvv://///eevev",
+        "name": "caneta 12345",
+        "price": 1.99,
+        "quantity": 200
+    },
+    {
+        "category_id": 1,
+        "description": "jjdjdjdjdjdjdjdjdjdjjd",
+        "hex_color": "#000",
+        "id": 1,
+        "image": "htkoifnjvv://///eevev",
+        "name": "caneta 12345",
+        "price": 1.99,
+        "quantity": 200
+    },
+    {
+        "category_id": 2,
+        "description": "jjdjdjr2r3r3rr3r3r3r3rdjdjdjdjdjdjjd",
+        "hex_color": "#fff",
+        "id": 2,
+        "image": "htkoifn//eevev",
+        "name": "caneta 12",
+        "price": 10.99,
+        "quantity": 200
+    },
+    {
+        "category_id": 2,
+        "description": "jjdjdjr2r3r3rr3r3r3r3rdjdjdjdjdjdjjd",
+        "hex_color": "#000",
+        "id": 2,
+        "image": "htkoifn//eevev",
+        "name": "caneta 12",
+        "price": 10.99,
+        "quantity": 200
+    }
+]

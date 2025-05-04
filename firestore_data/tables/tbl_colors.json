@@ -1,0 +1,12 @@
+[
+    {
+        "hex_color": "#fff",
+        "id": 1,
+        "name": "branco"
+    },
+    {
+        "hex_color": "#000",
+        "id": 2,
+        "name": "preto"
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "cart_id": 1,
+        "color_name": "branco",
+        "hex_color": "#fff",
+        "image": "htkoifn//eevev",
+        "price": 10.99,
+        "product_name": "caneta 12",
+        "quantity": 10,
+        "total_price": 109.9,
+        "user_name": "gaby"
+    },
+    {
+        "cart_id": 1,
+        "color_name": "preto",
+        "hex_color": "#000",
+        "image": "htkoifn//eevev",
+        "price": 10.99,
+        "product_name": "caneta 12",
+        "quantity": 20,
+        "total_price": 219.8,
+        "user_name": "gaby"
+    },
+    {
+        "cart_id": 2,
+        "color_name": "preto",
+        "hex_color": "#000",
+        "image": "htkoifnjvv://///eevev",
+        "price": 1.99,
+        "product_name": "caneta 12345",
+        "quantity": 40,
+        "total_price": 79.6,
+        "user_name": "gaby"
+    },
+    {
+        "cart_id": 3,
+        "color_name": "branco",
+        "hex_color": "#fff",
+        "image": "htkoifnjvv://///eevev",
+        "price": 1.99,
+        "product_name": "caneta 12345",
+        "quantity": 1,
+        "total_price": 1.99,
+        "user_name": "matheus"
+    }
+]
